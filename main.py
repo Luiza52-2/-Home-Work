@@ -1,3 +1,4 @@
+
 import flet as ft
 from datetime import datetime
 
@@ -78,3 +79,4 @@ def main(page: ft.Page):
                     history_text)
 
 ft.app(main)
+
